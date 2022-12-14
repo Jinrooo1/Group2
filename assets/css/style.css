@@ -1904,19 +1904,19 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3194db;
+  background: #353C44;
 }
 
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
-  color: #444444;
+  color: #353C44;
 }
 
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2487ce;
+  background: #4B7793;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1929,7 +1929,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3194db;
+  background: #4d96c4;
   color: #fff;
   text-decoration: none;
 }
