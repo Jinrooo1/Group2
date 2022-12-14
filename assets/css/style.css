@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #353C44;
 }
 
 a {
@@ -154,7 +154,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 20px;
+  max-height: 40px;
 }
 
 @media (max-width: 992px) {
