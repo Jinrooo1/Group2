@@ -84,7 +84,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #2487ce;
+  border: 6px solid #4B7793;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -192,7 +192,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: #4B7793;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -258,7 +258,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #2487ce;
+  color: #4B7793;
 }
 
 .navbar .dropdown:hover>ul {
@@ -294,7 +294,7 @@ h6 {
 * Mobile Navigation
 */
 .mobile-nav-toggle {
-  color: #124265;
+  color: #4B7793;
   font-size: 28px;
   cursor: pointer;
   display: none;
