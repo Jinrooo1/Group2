@@ -1878,7 +1878,7 @@ section {
   position: relative;
   border-radius: 5px;
   text-align: left;
-  border: 1px solid #cde5f6;
+  border: 1px solid #4d96c4;
 }
 
 #footer .footer-newsletter form input[type=email] {
@@ -1896,7 +1896,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #2487ce;
+  background: #4B7793;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 5px 5px 0;
