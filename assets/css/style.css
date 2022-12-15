@@ -10,11 +10,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #353C44;
+  color: #444444;
 }
 
 a {
-  color: #353C44;
+  color: #2487ce;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #4B7793;
+  background: #2487ce;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -84,7 +84,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #4B7793;
+  border: 6px solid #2487ce;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -150,7 +150,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #4B7793;
+  color: #16507b;
 }
 
 #header .logo img {
@@ -192,7 +192,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #4B7793;
+  color: #16507b;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -208,7 +208,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4d96c4;
+  color: #2487ce;
 }
 
 .navbar .getstarted,
@@ -223,7 +223,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #4d96c4;
+  background: #4B7793;
 }
 
 .navbar .dropdown ul {
@@ -258,7 +258,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #4B7793;
+  color: #2487ce;
 }
 
 .navbar .dropdown:hover>ul {
@@ -294,7 +294,7 @@ h6 {
 * Mobile Navigation
 */
 .mobile-nav-toggle {
-  color: #4B7793;
+  color: #124265;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -430,12 +430,12 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #4B7793;
+  color: #124265;
   font-family: "Poppins", sans-serif;
 }
 
 #hero h2 {
-  color: #353C44;
+  color: #5e5e5e;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -451,11 +451,11 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #4B7793;
+  background: #2487ce;
 }
 
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #4B7793;
 }
 
 #hero .icon-boxes {
@@ -1781,7 +1781,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #444444;
+  color: #00000;
   font-size: 14px;
   background: #f8fbfe;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
@@ -1878,7 +1878,7 @@ section {
   position: relative;
   border-radius: 5px;
   text-align: left;
-  border: 1px solid #4d96c4;
+  border: 1px solid #cde5f6;
 }
 
 #footer .footer-newsletter form input[type=email] {
@@ -1896,7 +1896,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #4B7793;
+  background: #2487ce;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 5px 5px 0;
@@ -1904,19 +1904,19 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #353C44;
+  background: #3194db;
 }
 
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
-  color: #353C44;
+  color: #444444;
 }
 
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #4B7793;
+  background: #2487ce;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1929,7 +1929,102 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #4d96c4;
+  background: #3194db;
   color: #fff;
   text-decoration: none;
 }
+
+/*--------------------------------------------------------------
+# Table Outline
+--------------------------------------------------------------*/
+section{
+
+
+
+
+position: relative;
+
+
+display: flex;
+
+
+justify-content: center;
+
+
+align-items: center;
+
+
+min-height: 60vh;
+
+
+padding: 150px 100px 100px;
+
+
+}
+
+
+.table{
+
+
+	width: 100%;
+
+
+	border-collapse: collapse;
+
+
+}
+
+
+
+
+
+
+.table td,.table th{
+
+
+padding:12px 15px;
+
+
+border:1px solid #E6E2DD;
+
+
+text-align: center;
+
+
+font-size:16px;
+
+
+}
+
+
+
+
+
+
+.table th{
+
+
+	background-color: #FB9039;
+
+
+	color:#ffffff;
+
+
+}
+
+
+
+
+
+
+.table tbody tr:nth-child(even){
+
+
+	background-color: #E6E2DD;
+
+
+}
+
+
+
+/*responsive*/
