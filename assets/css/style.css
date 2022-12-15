@@ -400,12 +400,12 @@ h6 {
 }
 
 a.active,a:hover{
-	background:#00008B;
+	background:#FFFFFF;
 	transition .5s;
 }
 .checkbtn{
 	font-size:30px;
-	color:#ADD8E6;
+	color:#00008B;
 	float:right;
 	line-height:80px;
 	margin-right:40px;
