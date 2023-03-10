@@ -2119,13 +2119,4 @@ padding-left: 250px;
 }
 /*responsive*/
 
-/*--------------------------------------------------------------
-# Q3 Images
---------------------------------------------------------------*/
 
-.image center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
