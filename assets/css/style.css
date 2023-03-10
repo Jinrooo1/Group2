@@ -1845,7 +1845,7 @@ section {
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 
-#Q3 footer {
+.Q3 footer {
 position:fixed;
 bottom:0;
 }
