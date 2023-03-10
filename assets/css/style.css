@@ -1845,10 +1845,6 @@ section {
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 
-.Q3 footer {
-position:fixed;
-bottom:0;
-}
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
