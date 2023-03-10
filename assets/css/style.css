@@ -1846,7 +1846,7 @@ section {
 }
 
 #Q3 footer {
-position:relative;
+position:fixed;
 bottom:0;
 }
 
